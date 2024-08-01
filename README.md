@@ -3,6 +3,8 @@
 
 **Mi nombre es Noel López**, soy un aspirante a _Full Stack_. Actualmente soy programador web y estudiante autodidácta
 
+![Estadísticas de <Noel1409>](https://github-readme-stats.vercel.app/api?username=Noel1409&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 Algunas de las tecnologías con las que he trabajado:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Plastic&logo=html5&logoColor=white) 
