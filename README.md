@@ -13,6 +13,7 @@ Algunas de las tecnologías con las que he trabajado:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=Plastic&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=Plastic&logo=daisyui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=Plastic&logo=jquery&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=Plastic&logo=astro&logoColor=white)
 <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=Plastic&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=Plastic&logo=mariadb&logoColor=white)
