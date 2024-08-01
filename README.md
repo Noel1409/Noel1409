@@ -31,4 +31,5 @@ Algunas de las tecnologías con las que he trabajado:
 - 🤔 Aún intento decidirme si empezar con ReactJS o Angular
 - 📫 Puedes contactarme en: [noellopez1409@gmail.com](mailto:noellopez1409@gmail.com)
 - ⚡ También soy fanático de los videojuegos, el anime, pokémon y otros
+- 🖥️ Soy graduado de Ingeniero en Sistemas de Información y Ciencias de la Computación
 
