@@ -29,7 +29,7 @@ Algunas de las tecnologías con las que he trabajado:
 ### Otros datos sobre mí
 - 🔭 Actualmente trabajo como desarrollador web
 - 🌱 Aprendiendo TailwindCSS, daisyUI y Astro
-- 🤔 Aún intento decidirme si empezar con ReactJS o Angular
+- 🤔 Empezando ReactJS con el curso de Midudev
 - 📫 Puedes contactarme en: [noellopez1409@gmail.com](mailto:noellopez1409@gmail.com)
 - ⚡ También soy fanático de los videojuegos, el anime, pokémon y otros
 - 🖥️ Soy Ingeniero en Sistemas de Información y Ciencias de la Computación
